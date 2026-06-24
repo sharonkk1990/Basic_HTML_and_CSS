@@ -1,0 +1,13 @@
+p
+{
+	color:snow;
+	background-color:black;
+	font-size:medium;
+	text-align:center;
+}
+.shadow-text
+{
+	font-size: 36px;
+	color: #333;
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}	
